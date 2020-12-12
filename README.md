@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Nazmul Hasan Sheum</h1>
-<h3 align="center">A **bertho** software engineer</h3>
+<h3 align="center">A <del>bertho</del> software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadsheam&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadsheam" /> </p>
 
