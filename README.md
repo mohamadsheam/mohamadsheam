@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Nazmul Hasan Sheum</h1>
-<h3 align="center">A `bertho` software engineer</h3>
+<h3 align="center">A **bertho** software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadsheam&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadsheam" /> </p>
 
@@ -27,4 +27,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamadsheam&show_icons=true&locale=en&layout=compact" alt="mohamadsheam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamadsheam&show_icons=true&locale=en" alt="mohamadsheam" /></p>
