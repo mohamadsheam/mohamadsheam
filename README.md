@@ -27,10 +27,8 @@
 | Language & Tools  | Description              |
 | ------------------| -------------------------|
 | PHP               | Codeigniter, Laravel     |
-| PYTHON            | Flask, Pandas            |
+| PYTHON            | Flask, Django            |
 | Database          | MySQL,Oracle 12c, MongoDB|
-| Templating        | Jinja, Blade, Bootstrap  |
-| JavaScript        | AngularJs, VueJs   |
 | VCS               | Git, Github, Bitbucket   |
 | OS                | Windows, Ubuntu, Manjaro |
 | Data visualization| Power Bi, Tableau        |
