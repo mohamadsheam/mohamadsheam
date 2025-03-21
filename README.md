@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Nazmul Hasan Sheum</h1>
-<h3 align="center">A <del>bertho</del> software engineer</h3>
+<h3 align="center">A software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadsheam&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadsheam" /> </p>
 
@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [http://mohammadsheam.pythonanywhere.com/](http://mohammadsheam.pythonanywhere.com/)
 
-- ⚡ Fun fact **I am out of Fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +26,7 @@
 | Language & Tools  | Description              |
 | ------------------| -------------------------|
 | PHP               | Codeigniter, Laravel     |
-| PYTHON            | Flask, Django            |
+| PYTHON            | Flask, FastApi           |
 | Database          | MySQL,Oracle 12c, MongoDB|
 | VCS               | Git, Github, Bitbucket   |
 | OS                | Windows, Ubuntu, Manjaro |
