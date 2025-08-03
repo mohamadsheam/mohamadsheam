@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadsheam&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadsheam" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **System Design**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **Operating System**
 
 - 💬 Ask me about **PHP, Python**
 
