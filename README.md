@@ -1,38 +1,99 @@
-<h1 align="center">Hi 👋, I'm MD Nazmul Hasan Sheum</h1>
-<h3 align="center">A dreamer</h3>
+# 👋 Hi, I’m MD Nazmul Hasan Sheum
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadsheam&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadsheam" /> </p>
+**Senior Software Engineer | Backend Specialist | Aspiring Solution Architect**
 
-- 🌱 I’m currently learning **System Design**
+I design and build **scalable, API-first backend systems** with a strong focus on clean architecture, performance, and long-term maintainability.  
+I enjoy turning vague business requirements into clear technical solutions and helping teams ship reliable software.
 
-- 👯 I’m looking to collaborate on **Operating System**
+---
 
-- 💬 Ask me about **PHP, Python**
+## 🧠 What I Do
 
-- 📫 How to reach me **nazmulhasansheum@gmail.com**
+- Design **backend architectures** for growing applications
+- Build **RESTful & API-first systems** (web today, mobile tomorrow)
+- Optimize **database performance** for large datasets
+- Improve **code quality, testability, and observability**
+- Mentor developers and collaborate across product, QA, and design
 
-- 📄 Know about my experiences [http://mohammadsheam.pythonanywhere.com/](http://mohammadsheam.pythonanywhere.com/)
+---
 
+## 🚀 Current Focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammadsheam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohammadsheam" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4882185/nazmul-hasan-sheum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mohammadsheam" height="30" width="40" /></a>
-<a href="https://fb.com/nazmulhasansheum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nazmulhasansheum" height="30" width="40" /></a>
-</p>
+- **System Design & Scalability**
+  - Designing systems for thousands of concurrent users
+  - Database indexing, partitioning, and query optimization
+  - Caching strategies and background processing
+- **Distributed & Data-intensive Applications**
+- **Moving from Senior Engineer → Solution Architect**
 
+---
 
+## 🛠 Tech Stack
 
-| Language & Tools  | Description              |
-| ------------------| -------------------------|
-| PHP               | Codeigniter, Laravel     |
-| PYTHON            | Flask, FastApi           |
-| Database          | MySQL,Oracle 12c, MongoDB|
-| VCS               | Git, Github, Bitbucket   |
-| OS                | Windows, Ubuntu, Manjaro |
-| Data visualization| Power Bi, Tableau        |
-| Others            | Docker, Jenkins, Ansible |
-|                   | Grafana, AWS, GCP        |
+### Backend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamadsheam&show_icons=true&locale=en&layout=compact" alt="mohamadsheam" /></p>
+- **PHP** — Laravel, CodeIgniter  
+- **Python** — Flask, FastAPI  
 
+### Databases
+
+- MySQL  
+- Oracle 12c  
+- MongoDB  
+
+### DevOps & Infrastructure
+
+- Docker  
+- Jenkins  
+- Ansible  
+- Basic cloud experience with **AWS & GCP**
+- Monitoring with **Grafana**
+
+### Version Control
+
+- Git, GitHub, Bitbucket  
+
+### Operating Systems
+
+- Linux (Ubuntu, Manjaro)  
+- Windows  
+
+### Data & Reporting
+
+- Power BI  
+- Tableau  
+
+---
+
+## 🧩 How I Like to Work
+
+- API-first mindset
+- Clear separation of concerns
+- Prefer **simple, boring solutions** over over-engineering
+- Performance and scalability considered **early**, not as an afterthought
+- Documentation matters — future developers include *me*
+
+---
+
+## 🤝 Collaboration & Interests
+
+I enjoy:
+
+- Architecture discussions
+- Backend-heavy projects
+- Learning-by-building
+- Reviewing system designs and trade-offs
+
+Always happy to exchange ideas with engineers who care about **clean systems and real-world scalability**.
+
+---
+
+## 🌐 Find Me Online
+
+- 💼 LinkedIn: [Nazmul Hasan Sheum](https://linkedin.com/in/mohammadsheam)
+- 🌍 Portfolio: [sheum.dev](https://sheum.dev/)
+- 📧 Email: **<nazmulhasansheum@gmail.com>**
+
+---
+
+> *“Good software is built twice: once in the mind, once in code.”*
